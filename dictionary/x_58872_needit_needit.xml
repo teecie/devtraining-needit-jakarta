@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Activity due" max_length="40" name="activity_due" type="due_date"/>
+        <element label="Additional assignee list" max_length="4000" name="additional_assignee_list" reference="imp_user" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element label="Done" sequence="0" value="done"/>
+                <element label="In progress" sequence="1" value="in progress"/>
+                <element label="Not started" sequence="2" value="not started"/>
+            </choice>
+        </element>
+    </element>
+</database>

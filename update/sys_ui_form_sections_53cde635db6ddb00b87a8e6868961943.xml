@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="53cde635db6ddb00b87a8e6868961943" sys_domain="global" table="x_58872_needit_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>tracy.mclean@enta.net</sys_created_by>
+            <sys_created_on>2018-04-19 11:07:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97cde635db6ddb00b87a8e6868961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="8f9c6ef1db6ddb00b87a8e686896190b">53cde635db6ddb00b87a8e6868961943</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="8f9c6ef1db6ddb00b87a8e686896190b">839c6ef1db6ddb00b87a8e686896190f</sys_ui_section>
+            <sys_updated_by>tracy.mclean@enta.net</sys_updated_by>
+            <sys_updated_on>2018-04-19 11:07:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>tracy.mclean@enta.net</sys_created_by>
+            <sys_created_on>2018-04-19 11:07:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93cde635db6ddb00b87a8e6868961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="8f9c6ef1db6ddb00b87a8e686896190b">53cde635db6ddb00b87a8e6868961943</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_58872_needit_needit" sys_domain="global" view="8f9c6ef1db6ddb00b87a8e686896190b">9fcde635db6ddb00b87a8e6868961941</sys_ui_section>
+            <sys_updated_by>tracy.mclean@enta.net</sys_updated_by>
+            <sys_updated_on>2018-04-19 11:07:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>tracy.mclean@enta.net</sys_created_by>
+            <sys_created_on>2018-04-19 11:07:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bcde635db6ddb00b87a8e68689619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="8f9c6ef1db6ddb00b87a8e686896190b">53cde635db6ddb00b87a8e6868961943</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_58872_needit_needit" sys_domain="global" view="8f9c6ef1db6ddb00b87a8e686896190b">57cde635db6ddb00b87a8e6868961942</sys_ui_section>
+            <sys_updated_by>tracy.mclean@enta.net</sys_updated_by>
+            <sys_updated_on>2018-04-19 11:07:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>tracy.mclean@enta.net</sys_created_by>
+            <sys_created_on>2018-04-19 11:07:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53cde635db6ddb00b87a8e6868961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_53cde635db6ddb00b87a8e6868961943</sys_update_name>
+            <sys_updated_by>tracy.mclean@enta.net</sys_updated_by>
+            <sys_updated_on>2018-04-19 11:07:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="New Form View" name="New_Form_View">8f9c6ef1db6ddb00b87a8e686896190b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
